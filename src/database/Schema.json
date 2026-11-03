@@ -1,0 +1,15 @@
+{
+    "$schema": "https://cdn-ruanmei.intermi.my.id/schema.json",
+    "players": {
+        "id": { "Type": "string" },
+        "userid": { "Type": "number" },
+        "username": { "Type": "string" },
+        "role": { "Type": "number" },
+        "inventory": [],
+        "statistics": {}
+    },
+    "config": {
+        "active": false,
+        "bannedids": []
+    }
+}

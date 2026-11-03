@@ -1,7 +1,6 @@
 from typing import Any, Dict, Optional
 import httpx
 
-
 class HTTPRequest:
     def __init__(
         self,
